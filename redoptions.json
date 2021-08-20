@@ -1,11 +1,11 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/red-options",
   "promos": {
-    "1.17.1-latest": "1.17.1-1.0.0.1",
-    "1.17.1-recommended": "1.17.1-1.0.0.1"
+    "1.17-latest": "1.0.0.1",
+    "1.17-recommended": "1.0.0.1"
   },
   "1.17.1": {
-    "1.0.0.1": "<changelog for this version>", 
-    "1.17.1-1.0.0.1": "Fixes and new block!"
+    "1.0.0.1": "Fixes and new block!", 
+    "1.0.0.0": "First release!"
   }
 }
