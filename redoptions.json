@@ -1,6 +1,7 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/red-options",
   "promos": {
+    "1.17.1-latest": "1.0.0.1"
   },
   "1.17.1": {
     "1.0.0.1": "fixes and new Red Container Change Check Block",
