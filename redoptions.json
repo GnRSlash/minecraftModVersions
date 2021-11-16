@@ -1,10 +1,11 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/red-options",
   "promos": {
-    "1.17-latest": "1.0.0.2",
-    "1.17-recommended": "1.0.0.2"
+    "1.17-latest": "1.0.0.3",
+    "1.17-recommended": "1.0.0.3"
   },
   "1.17": {
+    "1.0.0.3": "Red Detector is a block detector to use as vertical redstone and pumpkim farm!",
     "1.0.0.2": "Red Hopper with 9 custom slots and new color!",
     "1.0.0.1": "Fixes and new blocks! (Red Clock and Red Container Check)", 
     "1.0.0.0": "First release!"
