@@ -1,8 +1,12 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/lostworld",
   "promos": {
-    "1.18-latest": "1.0.0.0",
-    "1.18-recommended": "1.0.0.0"
+    "1.18.latest": "1.0.0.2",
+    "1.18-recommended": "1.0.0.2"
+  },
+  "1.18.1": {
+    "1.0.0.1": "updated to 1.18.1",
+    "1.0.0.2": "new stone mobs (zombie, skeleton, spider and creeper)"
   },
   "1.18": {
     "1.0.0.0": "First Release!"
