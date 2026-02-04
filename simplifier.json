@@ -2,13 +2,14 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/simplifier",
 
   "1.21.11": {
+    "1.0.2": "• news: updated to NeoForge 21.11.37-beta\r• Six Eyes Block: used to search and get items near it, in any dimension!",
     "1.0.1": "• news: update checker\r• health bar, Damage Indicators, Console commands\n• fixes:item pickup display when inventory is full\n• changes: Configurable screen position for the list of items picked up",
     "1.0.0": "• Initial public release"
   },
 
   "promos": {
-    "1.21.11-latest": "1.0.1",
-    "1.21.11-recommended": "1.0.1"
+    "1.21.11-latest": "1.0.2",
+    "1.21.11-recommended": "1.0.2"
   }
 
 }
